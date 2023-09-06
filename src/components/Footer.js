@@ -14,8 +14,8 @@ function Footer() {
             <hr />
             <p>
               Hey Everyone,
-              <br />I am Tushar Bhatia,
-              <br /> A Second year undergraduate student at{" "}
+              <br />I am Utkarsh Dixit,
+              <br /> An undergraduate student at{" "}
               <a href="https://hbtu.ac.in">
                 {" "}
                 HARCOURT BUTLER TECHNICAL UNIVERSITY-KANPUR
@@ -58,9 +58,9 @@ function Footer() {
             <h6>Contact Information</h6>
             <hr />
             <div className="text-white mb-1">
-              <p>43/2 Shastri Nagar Kanpur</p>
-              <p>+91 9569912066</p>
-              <p>tusharbhatia1003@gmail.com</p>
+              <p>HBTU Kanpur</p>
+              <p></p>
+              <p>utkarshdixitgkp74@gmail.com</p>
             </div>
           </div>
         </div>
